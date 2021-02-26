@@ -1,0 +1,28 @@
+header {
+    background-image: url(./pattern.webp);
+    color: khaki;
+    font-size: 100px;
+    font-family: Helvetica;
+    font-weight: bold;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    font-size: 32px;
+    font-family: helventica;
+    color: white;
+}
+h1.red {
+    background-color:red;
+}
+h1.blue {
+    background-color:blue;
+}
+h1.green {
+    background-color:green;
+}
+strong {
+    font-weight: bold;
+    font-family: helventica;
+    color: blue;
+}
